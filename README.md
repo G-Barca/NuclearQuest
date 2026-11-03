@@ -4,11 +4,8 @@ Challenge FIAP - AMAZUL
 
 ## Integrantes do grupo
 
-André Souza Matsuda   RM 566733 |
-Guilherme Barca       RM 568517 |
-Guilherme Oliveira    RM 566842 |
-Kaliel Conceição      RM 567587 |
-Paulo Henrique Muniz  RM 567618 |
+Andre Sousa Matuda RM 566733 | Guilherme Barca Nascimento Silva RM 568517 | 
+Guilherme Oliveira Feitosa RM 566842 | Kaliel Conceição de Aquino RM 567587 | Paulo Henrique Muniz RM 567618
 
 ## Sobre
 
